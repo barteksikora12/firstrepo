@@ -3,5 +3,5 @@
 Hello im bartek
 This is my first repo
 
-![Alt text](./codespaceview.png)
+![Code space view](./codespaceview.png)
 
